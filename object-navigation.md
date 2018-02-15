@@ -8,3 +8,5 @@
 - Combine functions to sanitize data
 
 ## Notes
+
+- JSON => JavaScript Object Notation
