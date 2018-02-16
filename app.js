@@ -1,7 +1,7 @@
 const ability = require('./pokemon.json')
 
 // 1. Write a function that takes in an ability object, and returns (or logs):
-  // The ability name2
+  // The ability name
 
 // Declare the function
 function basic(abilityObj) {
