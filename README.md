@@ -7,8 +7,6 @@
 - Access data from an array nested in an object
 - Combine functions to sanitize data
 
-## Notes
-
 ## Solution
 
 Switch to the 'breakout-finished' branch to see the code that was produced during the breakout.
